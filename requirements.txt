@@ -77,8 +77,8 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 pyreadline==2.1
 python-dateutil==2.9.0.post0
-pytz==2024.1
-pywin32==306
+pytz
+pywin32
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
