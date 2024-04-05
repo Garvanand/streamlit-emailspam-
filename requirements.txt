@@ -118,3 +118,5 @@ wcwidth==0.2.13
 webencodings==0.5.1
 widgetsnbextension==3.6.6
 zipp==3.18.1
+pywin32
+pytz<2024.1
