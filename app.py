@@ -102,6 +102,7 @@ def main():
     st.markdown('<h1 class="title">Email Spam Classifier</h1>', unsafe_allow_html=True)
     st.markdown('<p class="subtitle">Enter your email content below to check if it\'s spam or not.</p>', unsafe_allow_html=True)
 
+    st.image('email_icon.png', width=150, use_column_width=False)
 
     email_input = st.text_input('Enter the email content here')
 
